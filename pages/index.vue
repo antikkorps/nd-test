@@ -6,7 +6,7 @@
     </section>
 
     <section class="mt-8">
-      <h3 class="text-primary-600 dark:text-primary-400 max-w-5xl mx-auto">Les derniers articles</h3>
+      <h3 class="text-primary-600 dark:text-primary-400 max-w-5xl mx-auto">Les derniers articles du blog</h3>
       <posts post-type="blog" :amount="1" />
     </section>
   </main>
