@@ -28,7 +28,7 @@
     "eslint": "^9.11.1",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-prettier": "^5.2.1",
-    "netlify-cli": "^17.36.2",
+    "netlify-cli": "^17.36.4",
     "nuxt-svgo": "^4.0.6",
     "prettier": "^3.3.3"
   },
