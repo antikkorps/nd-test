@@ -27,7 +27,7 @@
     "@vite-pwa/assets-generator": "^1.0.0",
     "eslint": "^9.23.0",
     "eslint-config-prettier": "^10.1.1",
-    "eslint-plugin-prettier": "^5.2.3",
+    "eslint-plugin-prettier": "^5.2.6",
     "netlify-cli": "^19.1.5",
     "nuxt-svgo": "^4.0.14",
     "prettier": "^3.5.3"
