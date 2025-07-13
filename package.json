@@ -16,7 +16,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@nuxt/content": "^3.5.1",
+    "@nuxt/content": "^3.6.3",
     "@nuxt/kit": "^3.17.3",
     "@vite-pwa/nuxt": "^1.0.0",
     "nuxt": "3.17.4"
