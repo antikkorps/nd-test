@@ -30,7 +30,7 @@
     "eslint-plugin-prettier": "^5.5.1",
     "netlify-cli": "^23.13.0",
     "nuxt-svgo": "^4.2.6",
-    "prettier": "^3.7.4"
+    "prettier": "^3.8.0"
   },
   "optionalDependencies": {
     "@rollup/rollup-linux-x64-gnu": "^4.55.1"
